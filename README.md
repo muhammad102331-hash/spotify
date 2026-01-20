@@ -225,12 +225,12 @@ Contributions are welcome! Here's how you can help:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/muhammad102331-hash)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/syed-muhammad-ali-64613838b/)
+**Syed Muhammad Ali**
+- GitHub: [@muhammad102331-hash](https://github.com/muhammad102331-hash)
+- LinkedIn: [Syed Muhammad Ali](https://www.linkedin.com/in/syed-muhammad-ali-64613838b/)
+
 
 ---
 
