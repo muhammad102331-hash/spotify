@@ -10,6 +10,10 @@ A comprehensive exploratory data analysis (EDA) project on Spotify music data, f
 
 ---
 
+
+
+![Dashboard Screenshot](https://github.com/muhammad102331-hash/spotify/blob/main/assets/Screenshot%202026-01-20%20093804.png)
+
 ## 📊 Project Overview
 
 This project analyzes Spotify music data to uncover insights about:
